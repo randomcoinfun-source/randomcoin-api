@@ -1,0 +1,9 @@
+{
+  "name": "coinaladdin-api",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "api/coins.js",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
